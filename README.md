@@ -1,4 +1,6 @@
-# Meraki-MV 
+
+## Use Case 
+This allows you to configure a zone for your MV camera to monitor, take a manual snapshot, detect the number of people in the defined zone and send the snapshot and information on number of people detected to your phone and webex room. 
 
 # Meraki 
 1. Enable API access and retrieve API key https://documentation.meraki.com/General_Administration/Other_Topics/Cisco_Meraki_Dashboard_API#:~:text=For%20access%20to%20the%20API,to%20generate%20an%20API%20key.
@@ -13,6 +15,3 @@
 ## Installation 
 1. Create a virtual environment 
 2. Run the command 'pip install -r requirements.txt' to install all dependencies 
-
-## Use Case 
-This allows you to configure a zone for your MV camera to monitor, take a manual snapshot, detect the number of people in the defined zone and send the snapshot and information on number of people detected to your phone and webex room. 
